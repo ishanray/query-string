@@ -1,6 +1,6 @@
 {
   "name": "query-string-pusher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An easy way to change query strings in the browser.",
   "main": "query-string-pusher.js",
   "keywords": [

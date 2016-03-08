@@ -30,4 +30,6 @@ var QueryString = (function(window) {
     }
 })(window)
 
-module.exports = QueryString
+if (typeof module !== 'undefined') {
+    module.exports = QueryString
+}

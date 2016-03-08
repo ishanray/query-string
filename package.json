@@ -13,5 +13,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ishanray/query-string"
-  }
+  },
+  "bugs": "https://github.com/ishanray/query-string/issues"
 }

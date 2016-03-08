@@ -1,6 +1,6 @@
 {
   "name": "query-string-pusher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An easy way to change query strings in the browser.",
   "main": "query-string-pusher.js",
   "keywords": [
@@ -9,5 +9,9 @@
     "location"
   ],
   "author": "Ishan Raychaudhuri",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishanray/query-string"
+  }
 }
